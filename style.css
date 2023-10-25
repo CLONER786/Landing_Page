@@ -100,15 +100,14 @@ p{
     text-align: right;
 }
 #section_4{
-    margin: 40px 15vw;
+    margin: 4vw 15vw;
 }
 .content{
-    background-color: #3882F6;
-    border-radius: 6px;
-    /* padding: 20px; */
-    padding: 20px 5vw;
     display: flex;
     justify-content: space-around;
+    background-color: #3882F6;
+    border-radius: 6px;
+    padding: 20px 5vw;
     align-items: center;
     color: #E5E7EB;
 }
